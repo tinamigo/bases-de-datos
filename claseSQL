@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "kernelspec": {
+            "name": "SQL",
+            "display_name": "SQL",
+            "language": "sql"
+        },
+        "language_info": {
+            "name": "sql",
+            "version": ""
+        }
+    },
+    "nbformat_minor": 2,
+    "nbformat": 4,
+    "cells": [
+        {
+            "cell_type": "markdown",
+            "source": [
+                "1: Listar para cada track el nombre del mismo, el genero y el media type."
+            ],
+            "metadata": {
+                "azdata_cell_guid": "d14036fe-ae22-46d4-ab83-92323f1f8b8c"
+            }
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "55f232ea-4acf-4ada-96f6-4df0fd148478",
+                "tags": []
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                "2: Listar la cantidad de tracks que tiene cada género"
+            ],
+            "metadata": {
+                "azdata_cell_guid": "b98d9347-d29c-41ee-9afc-494a937dd993"
+            }
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "838a51d1-9c7e-4f33-931f-dea58110aefc"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                "3: Obtener los artistas que no tienen álbumes. Dar dos soluciones"
+            ],
+            "metadata": {
+                "azdata_cell_guid": "53e33634-7e52-4f9e-af76-cac0c0a37ef1"
+            }
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "2de2d90c-9c30-4797-83ac-86d333fdec81"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "b14f65a2-8fb7-490d-9af9-eb61d593ea90"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                "4: Listar el nombre y la cantidad de tracks de los artistas con más de 50 tracks, ordenado por cantidad de tracks de forma ascendente"
+            ],
+            "metadata": {
+                "azdata_cell_guid": "14f6e643-11e5-4300-91aa-d7e3e22a93bd"
+            }
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "58a967e9-c156-4562-9229-11fb924715a2"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                "5: Para cada cliente obtener la cantidad de empleados que viven en la misma ciudad ordenados descendentemente por cantidad de empleados."
+            ],
+            "metadata": {
+                "azdata_cell_guid": "c542c469-c061-498f-9a93-6e863c9d4222"
+            }
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "dddf76b0-bf0f-4b8a-a84f-8f8f9c706f4c",
+                "tags": []
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                "6: Obtener el dinero recaudado por cada empleado durante cada año"
+            ],
+            "metadata": {
+                "azdata_cell_guid": "e4237ac4-8823-4d42-8742-2784148eea3b"
+            }
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "fb31a7d4-efba-4d46-b418-87ec186c821b"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                "7: Obtener la cantidad de pistas de audio que tengan una duraci ́on superior a la duraci ́on promedio de todas las pistas de audio. Adem ́as, obtener la sumatoria de la duraci ́on de todas esas pistas en minutos."
+            ],
+            "metadata": {
+                "azdata_cell_guid": "a3565347-f524-463e-a5a2-fc9451622e25"
+            }
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "fe453d0a-8290-4517-8bd4-1030bdfa0e79"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                "8:\n",
+                "\n",
+                "(a) Crear una vista que devuelva las playlists que tienen al menos una pista del género “Rock”.\n",
+                "\n",
+                "(b) Utilizando la vista, obtener la cantidad de playlists que no poseen pistas de dicho género."
+            ],
+            "metadata": {
+                "azdata_cell_guid": "cac92c37-ac1b-4d51-9cfd-8b469307e840"
+            }
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "299ee2dd-b817-49ad-87d8-3aaa8573bfe1",
+                "tags": []
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                "9: Obtener las playlists más caras.\n",
+                "\n",
+                "Hint: primero obtener el ‘precio’ de cada playlist."
+            ],
+            "metadata": {
+                "azdata_cell_guid": "a757edc4-1b67-41ba-a648-404fc1c57ecb"
+            }
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "d8a3db74-55ce-4a97-8b51-17e734ad3108",
+                "tags": []
+            },
+            "outputs": [],
+            "execution_count": null
+        }
+    ]
+}
